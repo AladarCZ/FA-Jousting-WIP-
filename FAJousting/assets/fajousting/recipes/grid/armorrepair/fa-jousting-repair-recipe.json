@@ -1,0 +1,322 @@
+[
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-head-armet-steel-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none", "bear-black", "bear-brown", "bear-polar" ] },
+			"P": { "type": "item", "code": "game:metalplate-steel" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting steel plate armet repair",
+		"output": { "type": "item", "code": "fa-jousting-head-armet-steel-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-head-armet-steelplain-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none", "bear-black", "bear-brown", "bear-polar" ] },
+			"P": { "type": "item", "code": "game:metalplate-steel" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting steel plate armet repair",
+		"output": { "type": "item", "code": "fa-jousting-head-armet-steelplain-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-head-armet-meteoriciron-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none", "bear-black", "bear-brown", "bear-polar" ] },
+			"P": { "type": "item", "code": "game:metalplate-meteoriciron" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting meteoric iron plate armet repair",
+		"output": { "type": "item", "code": "fa-jousting-head-armet-meteoriciron-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-head-armet-iron-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none", "bear-black", "bear-brown", "bear-polar" ] },
+			"P": { "type": "item", "code": "game:metalplate-iron" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting iron plate armet repair",
+		"output": { "type": "item", "code": "fa-jousting-head-armet-iron-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-head-armetwing-steel-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none" ] },
+			"P": { "type": "item", "code": "game:metalplate-steel" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting steel plate armet repair",
+		"output": { "type": "item", "code": "fa-jousting-head-armetwing-steel-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-head-armetwing-steelplain-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none" ] },
+			"P": { "type": "item", "code": "game:metalplate-steel" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting steel plate armet repair",
+		"output": { "type": "item", "code": "fa-jousting-head-armetwing-steelplain-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-head-armetwing-meteoriciron-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none" ] },
+			"P": { "type": "item", "code": "game:metalplate-meteoriciron" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting meteoric iron plate armet repair",
+		"output": { "type": "item", "code": "fa-jousting-head-armetwing-meteoriciron-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-head-armetwing-iron-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none" ] },
+			"P": { "type": "item", "code": "game:metalplate-iron" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting iron plate armet repair",
+		"output": { "type": "item", "code": "fa-jousting-head-armetwing-iron-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-head-armetcrista-steel-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none" ] },
+			"P": { "type": "item", "code": "game:metalplate-steel" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting steel plate armet repair",
+		"output": { "type": "item", "code": "fa-jousting-head-armetcrista-steel-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-head-armetcrista-steelplain-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none" ] },
+			"P": { "type": "item", "code": "game:metalplate-steel" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting steel plate armet repair",
+		"output": { "type": "item", "code": "fa-jousting-head-armetcrista-steelplain-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-head-armetcrista-meteoriciron-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none" ] },
+			"P": { "type": "item", "code": "game:metalplate-meteoriciron" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting meteoric iron plate armet repair",
+		"output": { "type": "item", "code": "fa-jousting-head-armetcrista-meteoriciron-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-head-armetcrista-iron-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none" ] },
+			"P": { "type": "item", "code": "game:metalplate-iron" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting iron plate armet repair",
+		"output": { "type": "item", "code": "fa-jousting-head-armetcrista-iron-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-body-steel-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none", "bear-black", "bear-brown", "bear-polar" ] },
+			"P": { "type": "item", "code": "game:metalplate-steel" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting steel plate body repair",
+		"output": { "type": "item", "code": "fa-jousting-body-steel-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-body-steelplain-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none", "bear-black", "bear-brown", "bear-polar" ] },
+			"P": { "type": "item", "code": "game:metalplate-steel" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting steel plate body repair",
+		"output": { "type": "item", "code": "fa-jousting-body-steelplain-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-body-meteoriciron-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none", "bear-black", "bear-brown", "bear-polar" ] },
+			"P": { "type": "item", "code": "game:metalplate-meteoriciron" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting meteoric iron plate body repair",
+		"output": { "type": "item", "code": "fa-jousting-body-meteoriciron-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-body-iron-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none", "bear-black", "bear-brown", "bear-polar" ] },
+			"P": { "type": "item", "code": "game:metalplate-iron" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting iron plate body repair",
+		"output": { "type": "item", "code": "fa-jousting-body-iron-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-legs-steel-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none", "bear-black", "bear-brown", "bear-polar" ] },
+			"P": { "type": "item", "code": "game:metalplate-steel" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting steel plate legs repair",
+		"output": { "type": "item", "code": "fa-jousting-legs-steel-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-legs-steelplain-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none", "bear-black", "bear-brown", "bear-polar" ] },
+			"P": { "type": "item", "code": "game:metalplate-steel" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting steel plate legs repair",
+		"output": { "type": "item", "code": "fa-jousting-legs-steelplain-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-legs-meteoriciron-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none", "bear-black", "bear-brown", "bear-polar" ] },
+			"P": { "type": "item", "code": "game:metalplate-meteoriciron" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting meteoric iron plate legs repair",
+		"output": { "type": "item", "code": "fa-jousting-legs-meteoriciron-{color}" }
+	},
+	{
+		"ingredientPattern": "BL,P_",
+		"recipeGroup": 2,
+		"ingredients": {
+			"B": { "type": "item", "code": "fa-jousting-legs-iron-*", "name": "color", "allowedVariants": [ "plain", "blue", "red", "yellow", "green", "purple", "pink", "orange", "brown", "gray", "black", "white", "none", "bear-black", "bear-brown", "bear-polar" ] },
+			"P": { "type": "item", "code": "game:metalplate-iron" },
+			"L": { "type": "item", "code": "game:leather-normal-plain" }
+		},
+		"width": 2,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "B",
+		"averageDurability": false,
+		"name": "jousting iron plate legs repair",
+		"output": { "type": "item", "code": "fa-jousting-legs-iron-{color}" }
+	}
+]

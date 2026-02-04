@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FAJousting", "FAJousting\FAJousting.csproj", "{31CBD688-6562-45E2-90E5-04AB1ADB28B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "ZZCakeBuild\CakeBuild.csproj", "{951C8C36-7E8D-4AF5-9EE5-0FE91B5D1D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31CBD688-6562-45E2-90E5-04AB1ADB28B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31CBD688-6562-45E2-90E5-04AB1ADB28B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31CBD688-6562-45E2-90E5-04AB1ADB28B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31CBD688-6562-45E2-90E5-04AB1ADB28B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951C8C36-7E8D-4AF5-9EE5-0FE91B5D1D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951C8C36-7E8D-4AF5-9EE5-0FE91B5D1D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951C8C36-7E8D-4AF5-9EE5-0FE91B5D1D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951C8C36-7E8D-4AF5-9EE5-0FE91B5D1D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {210670B9-439A-4087-8617-05763A1F9660}
+	EndGlobalSection
+EndGlobal
